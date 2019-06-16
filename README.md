@@ -1,3 +1,3 @@
-Assignment 3: Priority Queues, Binary Search Trees, Balanced Search Trees
+# Assignment 3: Priority Queues, Binary Search Trees, Balanced Search Trees
 
 The assignment consists of priority queues, d-ary heaps, insertion methods, sorted arrays, swap method, child and parent node distinction, bst, rotate and transform functions, roots/node concepts and parameter equations. Also, pdf's are used to show snippets of code to explain the structure/implementation, explain/show big-o time complexity of certain functions and state where the complexity of the operations occur from, algorithm explanation of certain function, state time complexity and space complexity of certain functions (average case, worst, etc.) , and fill-in and come up with cost equations. Also run time and time complexity are written to show the recurrence relations, memory allocations etc...
