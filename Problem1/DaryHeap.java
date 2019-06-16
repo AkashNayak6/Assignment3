@@ -1,3 +1,5 @@
+// actually called "D-ary Heap"
+
 public class DaryHeap {
 		private int [] heap;		
 		private int num;
